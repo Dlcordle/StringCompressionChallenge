@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\David\Documents\Revature_Programs\Programs\SampleSpace\RobotChallenge\StringCompressionChallenge\.metadata\.plugins\org.eclipse.jdt.core
+1560108287.index
+1865797976.index
+1534788696.index
